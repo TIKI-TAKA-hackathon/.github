@@ -151,7 +151,7 @@ graph LR
 | Team | Tiki-Taka |
 
 <p align="center">
-  <img src="./assets/gojjibom-video-thumbnail.jpg" width="640" alt="고찌봄 시연 영상 썸네일" />
+  <img src="./assets/gojjibom-live-main.jpg" width="760" alt="고찌봄 라이브 데모 메인 화면" />
 </p>
 
 ---
